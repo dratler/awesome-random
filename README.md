@@ -41,6 +41,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Firefox Javascript debugger](https://github.com/firefox-devtools/debugger)
 
 #### Chrome
+Chrome is Web Browser based on Google crominuim engine 
 
 ## Hadoop Projects
 
